@@ -1,0 +1,10 @@
+C:\Users\hinte\source\repos\FrisbeeGolf\FrisbeeGolf\bin\Debug\FrisbeeGolf.exe.config
+C:\Users\hinte\source\repos\FrisbeeGolf\FrisbeeGolf\bin\Debug\FrisbeeGolf.exe
+C:\Users\hinte\source\repos\FrisbeeGolf\FrisbeeGolf\bin\Debug\FrisbeeGolf.pdb
+C:\Users\hinte\source\repos\FrisbeeGolf\FrisbeeGolf\obj\Debug\FrisbeeGolf.csprojAssemblyReference.cache
+C:\Users\hinte\source\repos\FrisbeeGolf\FrisbeeGolf\obj\Debug\FrisbeeGolf.Form1.resources
+C:\Users\hinte\source\repos\FrisbeeGolf\FrisbeeGolf\obj\Debug\FrisbeeGolf.Properties.Resources.resources
+C:\Users\hinte\source\repos\FrisbeeGolf\FrisbeeGolf\obj\Debug\FrisbeeGolf.csproj.GenerateResource.cache
+C:\Users\hinte\source\repos\FrisbeeGolf\FrisbeeGolf\obj\Debug\FrisbeeGolf.csproj.CoreCompileInputs.cache
+C:\Users\hinte\source\repos\FrisbeeGolf\FrisbeeGolf\obj\Debug\FrisbeeGolf.exe
+C:\Users\hinte\source\repos\FrisbeeGolf\FrisbeeGolf\obj\Debug\FrisbeeGolf.pdb
